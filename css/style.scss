@@ -287,12 +287,12 @@ section{
 
          h3{
             @include titleText(5rem);
-            color:$white;
+            color:$green;
          }
 
          p{
             @include graphText(1.6rem);
-            color:$light-white;
+            color:$green;
             padding:1rem 0;
          }
       }

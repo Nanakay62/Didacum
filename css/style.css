@@ -309,14 +309,14 @@ section {
   font-size: 5rem;
   text-transform: capitalize;
   color: #444;
-  color: #fff;
+  color: #0eb582;
 }
 
 .home .slide .content p {
   font-size: 1.6rem;
   line-height: 2;
   color: #777;
-  color: #eee;
+  color: #0eb582;
   padding: 1rem 0;
 }
 
